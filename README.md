@@ -51,6 +51,6 @@ For any inquiries, please contact @0xnyxo on Discord!
 
 ---
 
-**Author**: [Your Name]
+**Author**: [Nyxo]
 
 ![Author Image](assets/image.png)
